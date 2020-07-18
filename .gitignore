@@ -2,3 +2,4 @@
 *.exe
 *.h
 /music/bday.txt
+cs50.c
