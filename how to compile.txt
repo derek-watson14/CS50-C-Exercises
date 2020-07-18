@@ -1,0 +1,5 @@
+Using installed gcc comiler:
+
+1. Navigate into current directory
+2. Run command: gcc <program.c> -o <exe name>
+2.1: Example: gcc mario-less.c -o mario-less
